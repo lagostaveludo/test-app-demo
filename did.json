@@ -1,6 +1,6 @@
 {
   "name": "test-app-demo",
-  "port": 5006,
+  "port": 5007,
   "database": false,
   "logto": false,
   "env": {}

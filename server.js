@@ -2,7 +2,7 @@ const express = require('express');
 const path = require('path');
 
 const app = express();
-const PORT = process.env.PORT || 5006;
+const PORT = process.env.PORT || 5007;
 
 app.set('query parser', 'simple');
 app.use(express.json());
